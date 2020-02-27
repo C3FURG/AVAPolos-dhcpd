@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/env sh
 
 if [ ! -f /etc/dhcpd.conf ]; then
     echo "/etc/dhcpd.conf not found."
